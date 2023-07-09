@@ -2,40 +2,35 @@
     "RepositoryName": "🔥MDCBox🔥",
     "RepositoryDescription": "Incredibly simple tweaks!",
     "RepositoryAuthor": "DauntingEmperor",
-    "RepositoryIcon": "https://cdn.discordapp.com/attachments/1089248899438485564/1126690809828347924/Untitled_design_1.png",
-    "RepositoryWebsite": "https://github.com/hanabiADHD/hanabiRepo",
-    "DefaultHeaderImage": "https://cdn.discordapp.com/attachments/1079878178035736656/1083411883912081479/04F63A18-CFCD-4EB8-BDAA-8CAFACB38BFA.jpg",
+    "RepositoryIcon": "https://media.discordapp.net/attachments/1076677969705185441/1126690699081941022/Untitled_design_1.png?width=401&height=401",
+    "RepositoryWebsite": "https://github.com/DauntingEmperor/MDC/repo.json",
+    "DefaultHeaderImage": "https://media.discordapp.net/attachments/1076677969705185441/1126690699081941022/Untitled_design_1.png?width=401&height=401",
     "RepositoryContents": [
         {
-            "Name": "TrollBalloon",
-            "Description": "Change iMessage Balloon effects into TrollFace",
+            "Name": "VersionTroller :D",
+            "Description": "Change your internal iOS version to 17 to trick apps.  Warning⚠️⚠️⚠️!!  New misaka tweaks will not be able to be downloaded with this turned on!",
             "Author": {
-                "Label": "ChromiumCandy",
+                "Label": "DauntingEmperor",
                 "Links": [
                     {
-                        "Label": "ChromiumCandy",
-                        "Link": "https://twitter.com/ChromiumCandy"
+                        "Label": "DauntingEmperor",
+                        "Link": "https://Github.com/DauntingEmperor"
                     }
                 ]
             },
-            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1083553454879932466/IMG_2268.png",
+            "Icon": "https://media.discordapp.net/attachments/1076677969705185441/1126690699081941022/Untitled_design_1.png?width=401&height=401",
             "HeaderImage": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOTHmFNPIORK3CvRpnAwT7EPR0nWwMYG-lGQ6I0JWrQZv3YvrIUN99wtuZspZI64mPRj15G0BIJoa2A_qRoNhamRSOgZJA=w1920-h927",
             "Category": "App Custom",
-            "Caption": "Troll your iMesssage effects!",
+            "Caption": "Troll your system settings",
             "Screenshot": [
-                "https://pbs.twimg.com/media/FqA7todaEAEo_5K?format=jpg&name=large"
+                ""
             ],
             "Releases": [
                 {
-                    "Version": "0.1 beta",
-                    "Package+": "https://cdn.discordapp.com/attachments/1075421920322932848/1078491485751746610/CKHappyBirthdayEffect.bundle.vdf",
-                    "Description": "beta release"
-                },
-                {
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869590438596658/com.ChromiumCandy.TrollBalloon.misaka",
-                    "Description": ".vdf to .misaka"
+                    "Description": "Intial Release"
                 }
             ],
-            "PackageID": "jp.ChromiumCandy.TrollBalloon"
+            "PackageID": "org.DauntingEmperor.SystemTroller"
         },
